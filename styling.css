@@ -1,0 +1,31 @@
+header {
+    text-align:center;
+    background-color:rgb(245, 171, 33);
+    height:100px;
+
+}
+#navbar{
+    text-align:right;
+    padding-right:100px;
+    text-decoration: none;
+}
+main{
+    background-color:rgb(245, 171, 33);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 10px;
+}
+nav strong a:hover{
+    color:rgb(90, 77, 52);
+    text-decoration:none;
+}
+main section p{
+    text-align:center;
+    text-decoration: darkorange;
+    width:"50%";
+    align:"center";
+}
+footer address{
+    text-align:center;
+    height:100px;
+    background-color:rgb(245, 171, 33);
+}
