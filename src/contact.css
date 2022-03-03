@@ -1,0 +1,18 @@
+#nav-bar{
+  text-align: right;
+  font-family: 'Ubuntu Mono', monospace;
+  font-size:25px;
+}
+a{
+  padding:5%;
+}
+#contacts{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.contact{
+  padding:1%;
+  width:5%;
+}
